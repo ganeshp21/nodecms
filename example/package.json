@@ -1,7 +1,7 @@
 {
   "name": "node_examples",
   "version": "1.0.0",
-  "description": "",
+  "description": "node examples",
   "main": "global.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
